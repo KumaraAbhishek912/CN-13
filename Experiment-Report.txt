@@ -1,0 +1,22 @@
+WIRESHARK LAB EXPERIMENT
+
+AIM
+To study Wireshark for packet capture, filtering, protocol analysis, and network troubleshooting.
+
+PROCEDURE
+1. Open Wireshark and select the active Wi-Fi or Ethernet interface.
+2. Start packet capture and generate ordinary network traffic.
+3. Stop and save the capture as wireshark_capture.pcapng.
+4. Apply filters such as tcp, udp, dns, and tls.
+5. Inspect packet details including source, destination, protocol, and length.
+6. Open Statistics and view Protocol Hierarchy, Endpoints, and Conversations.
+7. Save screenshots of your actual results.
+
+OUTPUT
+Add actual screenshots of packet capture, display filtering, Protocol Hierarchy, and Endpoints.
+
+RESULT
+Complete after performing the experiment and checking your results.
+
+NOTE
+Capture only traffic you are authorized to inspect. Check captures for sensitive information before uploading to a public repository.
